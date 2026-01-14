@@ -16,13 +16,4 @@ gcc gradesheet.c -o gradesheet
 ## To run the program:
 ./gradesheet input.txt output.txt
 
-## Input File Format
-
-RollNo Name
-sub1minor sub1major
-sub2minor sub2major
-sub3minor sub3major
-sub4minor sub4major
-sub5minor sub5major
-
 ## Output is written to output.txt
