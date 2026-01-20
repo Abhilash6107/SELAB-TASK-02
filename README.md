@@ -1,4 +1,4 @@
-# Student Grade Sheet (C)
+# Student Grade Sheet
 
 This program reads student details from a file, calculates percentage, CGPA, and grade, and writes the results to an output file.
 
@@ -17,3 +17,4 @@ gcc gradesheet.c -o gradesheet
 ./gradesheet input.txt output.txt
 
 ## Output is written to output.txt
+
